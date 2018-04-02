@@ -1,0 +1,3 @@
+[submodule "visicut-settings"]
+	path = visicut-settings
+	url = https://github.com/TyFab/visicut-settings.git
