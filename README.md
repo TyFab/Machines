@@ -10,7 +10,6 @@ Instructions
     git clone https://github.com/TyFab/machines.git
     ```
  * Récupérer les sous-modules :
- * 
     ```bash
     git submodule init
     git submodule update
