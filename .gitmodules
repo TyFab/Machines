@@ -1,3 +1,6 @@
 [submodule "visicut-settings"]
 	path = visicut-settings
 	url = https://github.com/TyFab/visicut-settings.git
+[submodule "Slic3r-config"]
+	path = Slic3r-config
+	url = https://github.com/TyFab/Slic3r-config
